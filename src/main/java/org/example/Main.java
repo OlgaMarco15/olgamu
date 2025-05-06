@@ -14,6 +14,7 @@ public class Main {
         n2 = sc.nextDouble();
         resultado = multiplica2(n1, n2);
         System.out.println("El resultado de la multiplicación es: " + resultado);
+        System.out.println("Modificacion tras la rama");
 
     }
 
